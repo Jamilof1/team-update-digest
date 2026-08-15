@@ -2,6 +2,11 @@
 
 Collect structured team updates and convert them into leadership-ready progress, blockers, decisions, and next moves. Project 06 in the Jamil Darwish Automation Lab.
 
+[![Verify](https://github.com/Jamilof1/team-update-digest/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Jamilof1/team-update-digest/actions/workflows/ci.yml)
+[View in Jamil Darwish's portfolio](https://jamildarwish.com/#automation-lab) · [MIT License](./LICENSE)
+
+![Team Update Digest interface](./public/preview.png)
+
 ## Modes
 
 - **Demo:** visible local rules organize updates immediately.
